@@ -33,6 +33,8 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     func applicationWillTerminate(_ aNotification: Notification) {
         // Insert code here to tear down your application
         print("in tear down ... dont cry")
+        
+        print("this s/b starting out in the MapFeature01 branch")
     }
 
 
